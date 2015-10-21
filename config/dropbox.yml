@@ -1,0 +1,7 @@
+#Config file for dropbox
+app_key: "maa2vey87w3bm9h"
+app_secret: "07wqr0suahp7mjk"
+access_token: "pcbys5tif0irrhd7"
+access_token_secret: "mhcq7uun1q5i0cw"
+user_id: "21401570"
+access_type: "dropbox"

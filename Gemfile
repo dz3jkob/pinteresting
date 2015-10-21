@@ -14,6 +14,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise' , '~> 3.5.2'
 gem 'paperclip', '~> 4.0'
 #gem 'aws-sdk', '~> 2.1.29'
+gem "paperclip-dropbox", ">= 1.1.7"
 
 group :development, :test do
 	gem 'sqlite3'
