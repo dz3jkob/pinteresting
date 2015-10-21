@@ -15,6 +15,7 @@ gem 'devise' , '~> 3.5.2'
 gem 'paperclip', '~> 4.0'
 #gem 'aws-sdk', '~> 2.1.29'
 gem "paperclip-dropbox", ">= 1.1.7"
+gem 'masonry-rails', '~> 0.2.0'
 
 group :development, :test do
 	gem 'sqlite3'
